@@ -209,7 +209,7 @@ def ShR(value, bits):
 
 def  chunk_processing(chunk, H, K):    
     """
-    This function aim to process a single 512-bit chunk during the SHA-256 hashing process.
+    This function aims to process a single 512-bit chunk during the SHA-256 hashing process.
     Three parameters are used:
     - chunk: A 512-bit block of the message
     - H: The current hash values (array of 8 32-bit integers)
