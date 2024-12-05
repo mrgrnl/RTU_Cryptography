@@ -14,4 +14,4 @@ The program includes a graphical interface using Tkinter for calculating and ver
 
 ## Requirements
 - Python 3.x
-- Tkinter library (included by default in most Python distributions)
+- Tkinter library
